@@ -17,4 +17,7 @@ class DetalhesActivity : AppCompatActivity() {
             insets
         }
     }
+    fun adicionar() {
+
+    }
 }
